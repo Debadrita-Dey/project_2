@@ -1,8 +1,6 @@
 # Cellphone price prediction   
 The Cellphone Price Prediction project aims to predict the prices of cellphones based on a variety of features such as brand, model, specifications, and other relevant attributes   
-# Cellphone Price Classification with ML and Power BI   
-
-This project predicts cellphone price ranges based on various technical features and visualizes trends using a Power BI dashboard.   
+This project predicts cellphone price ranges based on various technical features and visualizes trends using a Power BI dashboard.      
 
 ## Objective   
 - Classify cellphones into different price ranges using machine learning.   
